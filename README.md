@@ -97,8 +97,3 @@ I'm<strong> IMAD EL KHELYFY</strong>, a data scientist Student  at <a href="http
 ### Github Contribution Snake <img height="30" width="30" src="https://img.icons8.com/?size=30&id=87064&format=png&color=ffffff"/>
 <img src="github-contribution-grid-snake.svg"/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/imad el khelyfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imad el khelyfy" height="30" width="40" /></a>
-</p>
