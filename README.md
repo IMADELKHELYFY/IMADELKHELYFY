@@ -91,7 +91,7 @@ I'm<strong> IMAD EL KHELYFY</strong>, a data scientist Student  at <a href="http
 
 
 ### ✍️ Random Dev Quote
-<h1>"Simplicity is the ultimate sophistication."
+<h1>"Simplicity is the ultimate sophistication.
 - Leonardo da Vinci"<h1>
 
 ### Github Contribution Snake <img height="30" width="30" src="https://img.icons8.com/?size=30&id=87064&format=png&color=ffffff"/>
