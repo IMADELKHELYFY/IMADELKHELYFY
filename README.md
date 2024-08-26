@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇i,WORLD :)
+  𝐇i,WORLD
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
