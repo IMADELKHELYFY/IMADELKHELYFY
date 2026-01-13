@@ -121,9 +121,14 @@ me.say_hi()
 </table>
 
 ---
+
 ### 🐍 Contribution Snake
 <img src="github-contribution-grid-snake.svg"/>
+
+
 ---
+
+
 ### 🤝 Connect With Me
 
 <p align="center">
